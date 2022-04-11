@@ -1,0 +1,5 @@
+def max_Domino():
+    n = input().split()
+    print((int(n[0])*int(n[1]))//2)
+
+max_Domino()
